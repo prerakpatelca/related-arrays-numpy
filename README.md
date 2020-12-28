@@ -22,3 +22,6 @@ Below is an example of a piece of code that computes the time (without rounding)
 
 Used numpy (no loops) compute and output the mean time for each player, then reported the fastest and slowest mean times (rounded to 3 decimal places) as well as the fastest and slowest single interval times (rounded to 3 decimal places). Includes the name of the players who achieved these times.
 Finally, there is an output of both the names and the times array for debugging.
+
+![alt text](https://github.com/prerakpatelca/related-arrays-numpy/blob/master/Screen%20Shot%202020-12-28%20at%203.44.23%20PM.png)
+![alt text](https://github.com/prerakpatelca/related-arrays-numpy/blob/master/Screen%20Shot%202020-12-28%20at%203.44.40%20PM.png)
